@@ -5,5 +5,6 @@ Please join our Discord server here: https://discord.gg/khD7nN2682
 
 ### Memebers:
 - susbaconhairman
+- SeveringHams
 - WilliamVanBeast
 - Voidix514
