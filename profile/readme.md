@@ -3,7 +3,7 @@ This team aspires to revive the modding scene for Minecraft: New Nintendo 3DS Ed
 
 Please join our Discord server here: https://discord.gg/khD7nN2682
 
-### Memebers:
+### Members:
 - susbaconhairman
 - SeveringHams
 - WilliamVanBeast
