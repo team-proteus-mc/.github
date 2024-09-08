@@ -6,5 +6,3 @@ Please join our Discord server here: https://discord.gg/khD7nN2682
 ### Members:
 - susbaconhairman
 - SeveringHams
-- WilliamVanBeast
-- Voidix514
