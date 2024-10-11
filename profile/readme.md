@@ -1,8 +1,8 @@
-## Welcome to the MC 3DS Team GitHub
+## Welcome to Team Proteus
 
-This team aspires to revive the modding scene for Minecraft: New Nintendo 3DS Edition.
+This team aspires to revolutionize the modding scene for Minecraft: New Nintendo 3DS Edition.
 
-Please join our Discord server here: https://discord.gg/khD7nN2682
+Please join our Discord server here: [https://discord.gg/m7Crrm4mEw](https://discord.gg/m7Crrm4mEw)
 
 ### Members:
 - susbaconhairman
