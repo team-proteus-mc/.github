@@ -1,55 +1,67 @@
-## Welcome to Team Proteus
+# Welcome to Team Proteus
 
-This team aspires to revolutionize the modding scene for Minecraft: New Nintendo 3DS Edition.
+We are a small Beta Minecraft server with plugins, custom client, and launcher.
 
-Please join our Discord server here: [https://discord.gg/m7Crrm4mEw](https://discord.gg/m7Crrm4mEw)
+Please join our Discord server here: [https://discord.gg/eKemcyUKwR](https://discord.gg/eKemcyUKwR)
 
 ### Members:
 - SeveringHams
+- RageTasticc
 
-TODO LIST:
+# TODO LIST:
+
 ## :arrow_right: To-do:
-- right click to sit on slab?
-- :information_source: add spruce and birch planks?
-- :information_source: add a fourth tree type?
-- :information_source: add horses?
-- :information_source: add structures like strongholds or villages from b1.8.1? (strongholds would be purely decorational)
--  shift to place on interactable blocks
-- :arrow_right: make Creepers spawn less frequently
-- :arrow_right: make mobs only spawn in light levels less than 2 or 1 (so creepers can explode without being repetitive)
-- :arrow_right: add Redstone Lamps
-- :arrow_right: wooden buttons
-- :arrow_right: upside-down trapdoors
-- :arrow_right: make blocks like torches, redstone dust and repeaters placeable on upside-down slabs
-- :arrow_right: add options for turning down weather
-- :arrow_right: add one or two new building block(s), probably stone bricks
-- :arrow_right: add an item specifically for claim/selection wand
-- :arrow_right: add shift-clicking for furnaces and armor slots
+- crouch to place on interactable blocks
+- make Creepers spawn less frequently
+- make mobs only spawn in light levels less than 2 or 1
+- add Redstone Lamps
+- wooden buttons
+- upside-down trapdoors
+- add options for turning down weather
+- add an item specifically for claim/selection wand
+- add shift-clicking for furnaces and armor slots
 
 ## Important:
 - MAKE PORTALS LESS NOISY
 
 ## Abandoned/Not completable:
 - edit DiscordChatLink and increase delay of the starting message **--no longer necessary**
-- add hooks to include other chat messages not detected by DiscordChatLink  **--unsure if possible**
 - investigate the sapling non stacking **--caused by mcMMO tree feller skill**
 
+## ℹ️ Ideas:
+- right click to sit on slab?
+- add spruce and birch planks?
+- add a fourth tree type?
+- add horses?
+- add structures like strongholds or villages from b1.8.1? (strongholds would be purely decorational)
+
 ## :ballot_box_with_check: Completed Tasks:
+- make blocks like torches, redstone dust and repeaters placeable on upside-down slabs
+- add stone bricks
 - add gold/silk touch
-- nerf gold picks
+- buff and nerf gold picks (slower but more durable)
 - non block-dependent trapdoors
 - iron trapdoors
-- fix clientside entity jerkiness
+- fix some clientside entity jerkiness
 - add controls options for all inputs like F5, F2, F3
 - add upside down slabs
-- make chest top textures semi-directional and optionally connecting
-- add support for separate side and bottom textures for iron, gold and diamond blocks
+- add FOV slider
+- improve placement of slabs
+- increase range of note block pitch from 2 octaves to 4 octaves **--required altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)
+- make armor slot icons render in inventory
+- make chest top textures connect and rotate east-west or north-south
+- add support for custom side and bottom textures for iron, gold and diamond blocks
 - add chat history
 - add text navigation
-- look into adding more slab variants
+- embed SmartMoving into the server and client (credit to Divisor, the author of the mod)
+- fix cape rendering **--caused by incomplete SmartMoving cape renderer class**
+- fix armor rendering **-- caused by desync of armor model and player model**
+- make FOV increase slightly while sprinting
+- add more slab variants
 - add all music discs from the full release of Minecraft
 - prevent consumption of food when player is full
 - finish fixing the order of item damage and block breaking
 - tweak mcMMO to make Gold tools not double drop items
+- add hooks to include other chat messages not detected by DiscordChatLink  **--HeroicDeath will broadcast death messages through DiscordChatLink.**
 - fix fullscreen on linux
 - fix water not creating sources when on source blocks
