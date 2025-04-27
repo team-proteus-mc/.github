@@ -4,7 +4,7 @@ We are a small Beta Minecraft server with plugins, custom client, and launcher.
 
 Please join our Discord server here: [https://discord.gg/eKemcyUKwR](https://discord.gg/eKemcyUKwR)
 
-### Members:
+### Owners:
 - SeveringHams
 - RageTasticc
 
