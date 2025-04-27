@@ -1,8 +1,10 @@
 # Welcome to Team Proteus
 
-We are a small Beta Minecraft server with plugins, custom client, and launcher.
+We are a small survival Beta Minecraft server with plugins, custom client, custom server and custom launcher.
 
 Please join our Discord server here: [https://discord.gg/eKemcyUKwR](https://discord.gg/eKemcyUKwR)
+
+Find the launcher in our teamproteus-launcher repository
 
 ### Owners:
 - SeveringHams
