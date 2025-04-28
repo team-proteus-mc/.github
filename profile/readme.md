@@ -12,4 +12,4 @@ Find the launcher in our teamproteus-launcher repository
 
 ## TODO LIST:
 
-Find the list of changes, fixes and modifications [here](ttps://github.com/team-proteus-mc/.github/blob/main/profile/todo.md#arrow_right-to-do)
+Find the list of changes, fixes and modifications [here](github.com/team-proteus-mc/.github/blob/main/profile/todo.md#arrow_right-to-do)
