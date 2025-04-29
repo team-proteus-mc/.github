@@ -1,20 +1,21 @@
-# :arrow_right: To-do:
+# ➡️ To-do:
 
-## Next Release:
-
-##  Planned:
+## 🔜 Next Release:
+- fix trapdoor placement code
+- MAKE PORTALS LESS NOISY
+- weather slider
 - crouch to place on interactable blocks
+- add shift-clicking for furnaces and armor slots
+
+## ↩️ Planned:
 - make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
 - add Redstone Lamps
-- wooden buttons
 - upside-down trapdoors
-- add options for turning down weather
 - add an item specifically for claim/selection wand
-- add shift-clicking for furnaces and armor slots
-- MAKE PORTALS LESS NOISY
+- wooden buttons
 
-## Abandoned/Not completable:
+## ⛔ Abandoned/Not completable:
 - edit DiscordChatLink and increase delay of the starting message **--no longer necessary**
 - investigate the sapling non stacking **--caused by mcMMO tree feller skill**
 
@@ -25,7 +26,7 @@
 - add horses?
 - add structures like strongholds or villages from b1.8.1? (strongholds would be purely decorational)
 
-## :ballot_box_with_check: Completed Tasks:
+## ☑️ Completed Tasks:
 - make blocks like torches, redstone dust and repeaters placeable on upside-down slabs
 - add stone bricks
 - add gold/silk touch
