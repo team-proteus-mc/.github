@@ -1,5 +1,5 @@
 # ➡️ To-do:
--# not in order
+<sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
 - fix trapdoor placement code
