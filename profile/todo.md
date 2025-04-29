@@ -2,11 +2,16 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
-- fix trapdoor placement code
-- MAKE PORTALS LESS NOISY
-- add weather slider
-- crouch to place on interactable blocks
-- add shift-clicking for furnaces and armor slots
+- fix trapdoor placement code [SC]
+- MAKE PORTALS LESS NOISY [C]
+- add weather slider [C]
+- crouch to place on interactable blocks [SC]
+- add shift-clicking for furnaces and armor slots [SC]
+- fix redstone update order [SC]
+- overhaul textboxes and chat system (again) [C]
+- make client retry connecting if failed with "bad login" [SC] (sometimes false, maybe packet dropping error?) 
+
+## ➡️ Upcoming:
 
 ## ↩️ Planned:
 - make Creepers spawn less frequently
