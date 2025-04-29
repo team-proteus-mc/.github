@@ -1,4 +1,8 @@
-## :arrow_right: To-do:
+# :arrow_right: To-do:
+
+## Next Release:
+
+##  Planned:
 - crouch to place on interactable blocks
 - make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
@@ -8,8 +12,6 @@
 - add options for turning down weather
 - add an item specifically for claim/selection wand
 - add shift-clicking for furnaces and armor slots
-
-## Important:
 - MAKE PORTALS LESS NOISY
 
 ## Abandoned/Not completable:
