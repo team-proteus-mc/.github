@@ -11,8 +11,6 @@
 - overhaul textboxes and chat system (again) [C]
 - make client retry connecting if failed with "bad login" [SC] (sometimes false, maybe packet dropping error?) 
 
-## ➡️ Upcoming:
-
 ## ↩️ Planned:
 - make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
