@@ -3,21 +3,24 @@
 
 ## 🔜 Next Release:
 - fix trapdoor placement code [SC]
-- MAKE PORTALS LESS NOISY [C]
-- add weather slider [C]
-- crouch to place on interactable blocks [SC]
-- add shift-clicking for furnaces and armor slots [SC]
-- fix redstone update order [SC]
-- overhaul textboxes and chat system (again) [C]
-- make client retry connecting if failed with "bad login" [SC] (sometimes false, maybe packet dropping error?) 
+- MAKE PORTALS LESS NOISY [C] -- Unfinished, nonfunctional
+- add weather slider [C] -- Unfinished, non-functional
+- optimize weather rendering
+- add option to turn off grass side rendering
+- fix fullscreen on Linux (probably by just making the window borderless windowed)
+
 
 ## ↩️ Planned:
 - make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
+- crouch to place on interactable blocks
+- add shift-clicking for furnaces and armor slots
 - add Redstone Lamps
+- fix redstone update order
 - upside-down trapdoors
 - add an item specifically for claim/selection wand
 - wooden buttons
+- make client retry connecting if failed with "bad login" (sometimes false, maybe packet dropping error?) 
 
 ## ⛔ Abandoned/Not completable:
 - edit DiscordChatLink and increase delay of the starting message **--no longer necessary**
@@ -41,6 +44,7 @@
 - add gold/silk touch
 - add iron trapdoors
 - add more slab variants
+- add UI sounds from Legacy Console Edition
 - add all music discs from the full release of Minecraft
 - add hooks to include other chat messages not detected by DiscordChatLink  **--HeroicDeath will broadcast death messages through DiscordChatLink.**
 - make non block-dependent trapdoors
@@ -49,12 +53,12 @@
 - make blocks like torches, redstone dust and repeaters placeable on upside-down slabs
 - make FOV increase slightly while sprinting
 - buff and nerf gold picks (slower but more durable)
+- overhaul textboxes and chat system (again)
 - increase range of note block pitch from 2 octaves to 4 octaves **--required altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)
 - tweak mcMMO to make Gold tools not double drop items
 - embed SmartMoving into the server and client (credit to Divisor, the author of the mod)
 - fix cape rendering **--caused by incomplete SmartMoving cape renderer class**
 - fix armor rendering **-- caused by desync of armor model and player model**
-- fix fullscreen on linux
 - fix water not creating sources when on source blocks
 - fix some clientside entity jerkiness
 - fix placement of slabs
