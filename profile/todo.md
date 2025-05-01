@@ -8,6 +8,7 @@
 - optimize weather rendering
 - add option to turn off grass side rendering
 - fix fullscreen on Linux (probably by just making the window borderless windowed)
+- make Discord RPC in custom launcher show "Team Proteus"
 
 
 ## ↩️ Planned:
