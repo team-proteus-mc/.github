@@ -2,16 +2,17 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
-- fix trapdoor placement code [SC]
 - MAKE PORTALS LESS NOISY [C] -- Unfinished, nonfunctional
 - add weather slider [C] -- Unfinished, non-functional
-- optimize weather rendering
-- add option to turn off grass side rendering
-- fix fullscreen on Linux (probably by just making the window borderless windowed)
-- make Discord RPC in custom launcher show "Team Proteus"
+- optimize weather rendering [C]
+- add option to turn off grass side rendering [C]
+- fix fullscreen on Linux [C] (probably by just making the window borderless windowed)
+- make Discord RPC in custom launcher show "Team Proteus" [C]
 
 
 ## ↩️ Planned:
+- native controller support (for handheld devices like Steam Deck)
+- fix trapdoor placement code
 - make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
 - crouch to place on interactable blocks
