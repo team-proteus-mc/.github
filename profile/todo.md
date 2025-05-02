@@ -2,7 +2,7 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## First:
-Before I do any more changes I have to port over my changes from Recaf to this Github Repo.
+Before I do any more changes I have to port over my changes from Recaf to our fork of Project Poseidon.
 
 ## 🔜 Next Next Release (pushed back):
 - MAKE PORTALS LESS NOISY [C] -- Unfinished, nonfunctional
