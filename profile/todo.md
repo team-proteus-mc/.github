@@ -2,13 +2,10 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
-- MAKE PORTALS LESS NOISY [C] -- Unfinished, nonfunctional
-- add weather slider [C] -- Unfinished, non-functional
 - optimize weather rendering [C]
 - add option to turn off grass side rendering [C]
 - fix fullscreen on Linux [C] (probably by just making the window borderless windowed)
 - make Discord RPC in custom launcher show "Team Proteus" [C]
-
 
 ## ↩️ Planned:
 - native controller support (for handheld devices like Steam Deck)
@@ -46,6 +43,7 @@
 - add gold/silk touch
 - add iron trapdoors
 - add more slab variants
+- add weather slider
 - add UI sounds from Legacy Console Edition
 - add all music discs from the full release of Minecraft
 - add hooks to include other chat messages not detected by DiscordChatLink  **--HeroicDeath will broadcast death messages through DiscordChatLink.**
@@ -54,6 +52,7 @@
 - make chest top textures connect and rotate east-west or north-south
 - make blocks like torches, redstone dust and repeaters placeable on upside-down slabs
 - make FOV increase slightly while sprinting
+- MAKE PORTALS LESS NOISY
 - buff and nerf gold picks (slower but more durable)
 - stop using Recaf to develop
 - portrd over code from Recaf to source so that I can compile onstead of decompiling and recompiling over and over
