@@ -1,10 +1,7 @@
 # ➡️ To-do:
 <sup><sup>*items are not in order of completion</sup></sup>
 
-## First:
-Before I do any more changes I have to port over my changes from Recaf to our fork of Project Poseidon.
-
-## 🔜 Next Next Release (pushed back):
+## 🔜 Next Release:
 - MAKE PORTALS LESS NOISY [C] -- Unfinished, nonfunctional
 - add weather slider [C] -- Unfinished, non-functional
 - optimize weather rendering [C]
@@ -58,6 +55,8 @@ Before I do any more changes I have to port over my changes from Recaf to our fo
 - make blocks like torches, redstone dust and repeaters placeable on upside-down slabs
 - make FOV increase slightly while sprinting
 - buff and nerf gold picks (slower but more durable)
+- stop using Recaf to develop
+- portrd over code from Recaf to source so that I can compile onstead of decompiling and recompiling over and over
 - overhaul textboxes and chat system (again)
 - increase range of note block pitch from 2 octaves to 4 octaves **--required altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)
 - tweak mcMMO to make Gold tools not double drop items
