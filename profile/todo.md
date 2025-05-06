@@ -19,6 +19,8 @@
 - increase range of note block pitch from 2 octaves to 4 octaves **--requires altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)
 - add support for custom side and bottom textures for iron, gold and diamond blocks
 
+
+
 # ☑️ Completed Tasks:
 - add controls options for all inputs like F5, F2, F3, sprint
 - make Discord RPC in custom launcher show "Team Proteus"
