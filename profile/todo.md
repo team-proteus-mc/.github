@@ -13,6 +13,7 @@
 - add toggle for borderless windowed!!!!
 - custom death messages
 - decreasing block break delay
+- fix client-server desync when insta-mining
 
 # ☑️ Completed Tasks:
 - increase number of strongholds and rework placement math (from 3 to 256)
