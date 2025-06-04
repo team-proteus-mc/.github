@@ -14,6 +14,7 @@
 - custom death messages
 - decreasing block break delay
 - fix client-server desync when insta-mining
+- fix achievement names in DiscordSRV
 
 # ☑️ Completed Tasks:
 - increase number of strongholds and rework placement math (from 3 to 256)
