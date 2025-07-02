@@ -5,7 +5,6 @@
 - optimize weather rendering [C]
 - add option to turn off grass side rendering [C]
 - fix fullscreen on Linux [C] (probably by just making the window borderless windowed)
-- make Discord RPC in custom launcher show "Team Proteus" [C]
 
 ## ↩️ Planned:
 - native controller support (for handheld devices like Steam Deck)
@@ -39,6 +38,7 @@
 - add controls options for all inputs like F5, F2, F3
 - add upside down slabs
 - add FOV slider
+- make Discord RPC in custom launcher show "Team Proteus"
 - add stone bricks
 - add gold/silk touch
 - add iron trapdoors
