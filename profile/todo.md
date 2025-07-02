@@ -57,7 +57,7 @@
 - stop using Recaf to develop
 - portrd over code from Recaf to source so that I can compile onstead of decompiling and recompiling over and over
 - overhaul textboxes and chat system (again)
-- increase range of note block pitch from 2 octaves to 4 octaves **--required altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)
+- increase range of note block pitch from 2 octaves to 4 octaves **--required altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)**
 - tweak mcMMO to make Gold tools not double drop items
 - embed SmartMoving into the server and client (credit to Divisor, the author of the mod)
 - fix cape rendering **--caused by incomplete SmartMoving cape renderer class**
