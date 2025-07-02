@@ -1,6 +1,10 @@
 # Welcome to Team Proteus
 
-We are a small Minecraft centered community. We run 2 minecraft servers;  a custom Beta server with plugins, custom client, custom server and custom launcher, and a Forge 1.20.1 server with many mods.
+We are a small Minecraft centered community. 
+
+- We have a custom Beta server with plugins, custom client, custom server and custom launcher
+
+- We also run a Forge 1.20.1 server with many mods.
 
 Please join our Discord server here: [https://discord.gg/eKemcyUKwR](https://discord.gg/eKemcyUKwR)
 
