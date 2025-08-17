@@ -2,22 +2,19 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
-- optimize weather rendering [C]
-- add option to turn off grass side rendering [C]
-- fix fullscreen on Linux [C] (probably by just making the window borderless windowed)
 
 ## ↩️ Planned:
 - native controller support (for handheld devices like Steam Deck)
-- fix trapdoor placement code
 - make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
-- crouch to place on interactable blocks
 - add shift-clicking for furnaces and armor slots
 - add Redstone Lamps
 - fix redstone update order
-- upside-down trapdoors
 - add an item specifically for claim/selection wand
 - wooden buttons
+- optimize weather rendering [C]
+- add option to turn off grass side rendering [C]
+- fix fullscreen on Linux [C] (probably by just making the window borderless windowed)
 - make client retry connecting if failed with "bad login" (sometimes false, maybe packet dropping error?) 
 
 ## ⛔ Abandoned/Not completable:
@@ -36,7 +33,9 @@
 - add chat history
 - add text navigation
 - add controls options for all inputs like F5, F2, F3
+- add crouch to place on interactable blocks
 - add upside down slabs
+- add upside-down trapdoors
 - add FOV slider
 - make Discord RPC in custom launcher show "Team Proteus"
 - add stone bricks
@@ -55,13 +54,16 @@
 - MAKE PORTALS LESS NOISY
 - buff and nerf gold picks (slower but more durable)
 - stop using Recaf to develop
-- portrd over code from Recaf to source so that I can compile onstead of decompiling and recompiling over and over
+- ported over code from Recaf to source so that I can compile onstead of decompiling and recompiling over and over
 - overhaul textboxes and chat system (again)
+- upgraded chat system again, now the chatbox will dynamically scroll to keep the cursor in frame.
 - increase range of note block pitch from 2 octaves to 4 octaves **--required altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)**
 - tweak mcMMO to make Gold tools not double drop items
-- embed SmartMoving into the server and client (credit to Divisor, the author of the mod)
+- add/embed SmartMoving into the server and client (credit to Divisor, the author of the mod)
 - fix cape rendering **--caused by incomplete SmartMoving cape renderer class**
 - fix armor rendering **-- caused by desync of armor model and player model**
+- fix trapdoor placement code
+- fix player drowning server-side but not client-side.
 - fix water not creating sources when on source blocks
 - fix some clientside entity jerkiness
 - fix placement of slabs
