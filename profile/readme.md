@@ -10,7 +10,7 @@ Please join our Discord server here: [https://discord.gg/eKemcyUKwR](https://dis
 
 Find the launcher in our teamproteus-launcher repository
 
-### Owners:
+### Members:
 - SeveringHams
 - RageTasticc
 
