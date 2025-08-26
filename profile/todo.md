@@ -2,8 +2,12 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
+- wool colors from Minecraft Classic
+- custom chat colors, use by typing `&#` before the hex color. Potential for custom name colors in chat.
+- fix DiscordChatBridge webhook avatar icon being Steve. Probably just need to point to a new mc chat head provider.
 
 ## ↩️ Planned:
+- overhaul texture system; add a 2nd terrain.png
 - native controller support (for handheld devices like Steam Deck)
 - make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
@@ -33,9 +37,7 @@
 - add chat history
 - add text navigation
 - add controls options for all inputs like F5, F2, F3
-- add crouch to place on interactable blocks
 - add upside down slabs
-- add upside-down trapdoors
 - add FOV slider
 - make Discord RPC in custom launcher show "Team Proteus"
 - add stone bricks
@@ -56,16 +58,18 @@
 - stop using Recaf to develop
 - ported over code from Recaf to source so that I can compile onstead of decompiling and recompiling over and over
 - overhaul textboxes and chat system (again)
-- upgraded chat system again, now the chatbox will dynamically scroll to keep the cursor in frame.
 - increase range of note block pitch from 2 octaves to 4 octaves **--required altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)**
 - tweak mcMMO to make Gold tools not double drop items
 - add/embed SmartMoving into the server and client (credit to Divisor, the author of the mod)
 - fix cape rendering **--caused by incomplete SmartMoving cape renderer class**
-- fix armor rendering **-- caused by desync of armor model and player model**
-- fix trapdoor placement code
-- fix player drowning server-side but not client-side.
+- fix armor rendering **--caused by desync of armor model and player model**
 - fix water not creating sources when on source blocks
 - fix some clientside entity jerkiness
 - fix placement of slabs
 - fix the order of item damage and block breaking
 - fix consumption of food when player is full
+- fix trapdoor placement code
+- fix player drowning server-side but not client-side.
+- upgraded chat system again, now the chatbox will dynamically scroll to keep the cursor in frame.
+- add crouch to place on interactable blocks
+- add upside-down trapdoors
