@@ -2,16 +2,12 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
-- wool colors from Minecraft Classic
-- custom chat colors, use by typing `&#` before the hex color. Potential for custom name colors in chat.
 - fix DiscordChatBridge webhook avatar icon being Steve. Probably just need to change which mc chat head provider the plugin points to.
-- fix default keybindings
-- add debug line in F3 menu that shows what block ID, block name translation key and metadata of the block you're looking at.
-- add debug into item names in inventory such that when F3 is open, hovering over items in the inventory shows the Item ID, metadata/damage value and item name translation key underneath the item name and description.
-- fix "moved wrongly" spam for noclipping players
-- fix lighting around transparent blocks like signs
 
 ## ↩️ Planned:
+- custom chat colors, use by typing `&#` before the hex color. Potential for custom name colors in chat.
+- add debug line in F3 menu that shows what block ID, block name translation key and metadata of the block you're looking at.
+- fix lighting around transparent blocks like signs
 - overhaul texture system; add a 2nd terrain.png
 - native controller support (for handheld devices like Steam Deck)
 - make Creepers spawn less frequently
@@ -78,3 +74,7 @@
 - upgraded chat system again, now the chatbox will dynamically scroll to keep the cursor in frame.
 - add crouch to place on interactable blocks
 - add upside-down trapdoors
+- wool colors from Minecraft Classic
+- fix "moved wrongly" spam for noclipping players
+- fix default keybindings
+- add debug into item names in inventory such that when F3 is open, hovering over items in the inventory shows the Item ID, metadata/damage value and item name translation key underneath the item name and description.
