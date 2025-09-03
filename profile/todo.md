@@ -2,36 +2,35 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
-- fix DiscordChatBridge webhook avatar icon being Steve. Probably just need to change which mc chat head provider the plugin points to.
+- add glass panes
+- add iron bars
+- implement custom death point container, which does not drop itself, is locked to the player who died and cannot be reused by a player as a container.
+- wooden buttons
+- add Redstone Lamps
+- make client retry connecting if failed with "bad login" (sometimes false, maybe packet dropping error?) 
+- add debug line in F3 menu that shows what block ID and metadata of the block you're looking at.
+
 
 ## ↩️ Planned:
+- fix mcMMO causing saplings of same type to not stack
+- native controller support (for handheld devices like Steam Deck)
+- fix FOV
 - custom chat colors, use by typing `&#` before the hex color. Potential for custom name colors in chat.
-- add debug line in F3 menu that shows what block ID, block name translation key and metadata of the block you're looking at.
 - fix lighting around transparent blocks like signs
 - overhaul texture system; add a 2nd terrain.png
-- native controller support (for handheld devices like Steam Deck)
 - make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
 - add shift-clicking for furnaces and armor slots
-- add Redstone Lamps
 - fix redstone update order
 - add an item specifically for claim/selection wand
-- wooden buttons
 - optimize weather rendering [C]
 - add option to turn off grass side rendering [C]
 - fix fullscreen on Linux [C] (probably by just making the window borderless windowed)
-- make client retry connecting if failed with "bad login" (sometimes false, maybe packet dropping error?) 
 
 ## ⛔ Abandoned/Not completable:
-- edit DiscordChatLink and increase delay of the starting message **--no longer necessary**
-- investigate the sapling non stacking **--caused by mcMMO tree feller skill**
 
 ## ℹ️ Ideas:
-- right click to sit on slab?
-- add spruce and birch planks?
-- add a fourth tree type?
-- add horses?
-- add structures like strongholds or villages from b1.8.1? (strongholds would be purely decorational)
+- add structures like strongholds or villages from b1.8.1? (both would be purely decorational)
 
 ## ☑️ Completed Tasks:
 - add support for custom side and bottom textures for iron, gold and diamond blocks
@@ -48,7 +47,7 @@
 - add weather slider
 - add UI sounds from Legacy Console Edition
 - add all music discs from the full release of Minecraft
-- add hooks to include other chat messages not detected by DiscordChatLink  **--HeroicDeath will broadcast death messages through DiscordChatLink.**
+- ~~add hooks to include other chat messages not detected by DiscordChatLink  **--HeroicDeath will broadcast death messages through DiscordChatLink.**~~ **--replaced by RRDiscordBridge**
 - make non block-dependent trapdoors
 - make armor slot icons render in inventory
 - make chest top textures connect and rotate east-west or north-south
@@ -78,3 +77,7 @@
 - fix "moved wrongly" spam for noclipping players
 - fix default keybindings
 - add debug into item names in inventory such that when F3 is open, hovering over items in the inventory shows the Item ID, metadata/damage value and item name translation key underneath the item name and description.
+- replace DiscordChatBridge and DiscordBotCore with RRDiscordBridge
+- hook HeroicDeath into RRDiscordBridge
+- fix tools of different damage values but same ID not swapping places when attempting to place the tool in the slot of the other in an inventory
+- added cobblestone variant
