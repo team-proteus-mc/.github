@@ -10,12 +10,12 @@
 - make client retry connecting if failed with "bad login" (sometimes false, maybe packet dropping error?) 
 - add debug line in F3 menu that shows what block ID and metadata of the block you're looking at.
 
-
 ## ↩️ Planned:
+- add silent server reboot
+- add sprint
+- fix ansi codes logging in logs
 - backport redstone code
 - fix mcMMO causing saplings of same type to not stack
-- native controller support (for handheld devices like Steam Deck)
-- fix FOV
 - custom chat colors, use by typing `&#` before the hex color. Potential for custom name colors in chat.
 - fix lighting around transparent blocks like signs
 - overhaul texture system; add a 2nd terrain.png
@@ -82,3 +82,6 @@
 - hook HeroicDeath into RRDiscordBridge
 - fix tools of different damage values but same ID not swapping places when attempting to place the tool in the slot of the other in an inventory
 - added cobblestone variant
+- native controller support (for handheld devices like Steam Deck)
+- fix FOV
+- add all characters from the character atlas
