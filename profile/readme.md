@@ -4,7 +4,7 @@ We are a small Minecraft centered community.
 
 We have a custom Beta server with plugins, custom client, custom server and custom launcher
 
-Please join our Discord server here: [discord.gg/eKemcyUKwR](https://discord.gg/eKemcyUKwR)
+Please join our Discord server here: [discord.gg/bBucQVMfnX](https://discord.gg/bBucQVMfnX)
 
 Find the launcher in our teamproteus-launcher repository
 
