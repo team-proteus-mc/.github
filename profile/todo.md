@@ -2,8 +2,6 @@
 <sup><sup>*items are not in order of completion</sup></sup>
 
 ## 🔜 Next Release:
-- add glass panes
-- add iron bars
 - implement custom death point container, which does not drop itself, is locked to the player who died and cannot be reused by a player as a container.
 - wooden buttons
 - add Redstone Lamps
@@ -18,8 +16,6 @@
 - fix mcMMO causing saplings of same type to not stack
 - custom chat colors, use by typing `&#` before the hex color. Potential for custom name colors in chat.
 - fix lighting around transparent blocks like signs
-- overhaul texture system; add a 2nd terrain.png
-- make Creepers spawn less frequently
 - make mobs only spawn in light levels less than 2 or 1
 - add shift-clicking for furnaces and armor slots
 - fix redstone update order
@@ -32,6 +28,7 @@
 
 ## ℹ️ Ideas:
 - add structures like strongholds or villages from b1.8.1? (both would be purely decorational)
+- overhaul texture system; add a 2nd terrain.png
 
 ## ☑️ Completed Tasks:
 - add support for custom side and bottom textures for iron, gold and diamond blocks
@@ -42,6 +39,8 @@
 - add FOV slider
 - make Discord RPC in custom launcher show "Team Proteus"
 - add stone bricks
+- add glass panes
+- add iron bars
 - add gold/silk touch
 - add iron trapdoors
 - add more slab variants
@@ -57,7 +56,7 @@
 - MAKE PORTALS LESS NOISY
 - buff and nerf gold picks (slower but more durable)
 - stop using Recaf to develop
-- ported over code from Recaf to source so that I can compile onstead of decompiling and recompiling over and over
+- ported over code from Recaf to source so that I can compile instead of decompiling and recompiling over and over
 - overhaul textboxes and chat system (again)
 - increase range of note block pitch from 2 octaves to 4 octaves **--required altering paulscode SoundSystem; changed the clamping of pitch from (0.5F,2.0F) to (0.125F,8.0F)**
 - tweak mcMMO to make Gold tools not double drop items
@@ -82,6 +81,6 @@
 - hook HeroicDeath into RRDiscordBridge
 - fix tools of different damage values but same ID not swapping places when attempting to place the tool in the slot of the other in an inventory
 - added cobblestone variant
-- native controller support (for handheld devices like Steam Deck)
+- janky native controller support
 - fix FOV
 - add all characters from the character atlas
