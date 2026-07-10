@@ -1,7 +1,7 @@
 # ➡️ To-do:
 <sup><sup>*items are not in order of completion</sup></sup>
 
-## 🔜 Next Release:
+## 🔜 Soon:
 - implement custom death point container, which does not drop itself, is locked to the player who died and cannot be reused by a player as a container.
 - wooden buttons
 - add Redstone Lamps
